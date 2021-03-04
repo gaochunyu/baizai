@@ -1,0 +1,42 @@
+.toolbar-box {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1;
+  display: flex;
+  .icon{
+    width: 22px;
+    height: 25px;
+    cursor: pointer;
+    padding-left: 3px;
+  }
+  i{
+    color: #fff;
+  }
+  span{
+    height: 20px;
+    width: 1px;
+    background: rgba(255,255,255,0.40);
+  }
+
+  .toolbar-left{
+    width: 144px;
+    height: 40px;
+    background: rgba(60,146,197,0.85);
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+  }
+  .toolbar-right{
+    width: 36px;
+    height: 40px;
+    background: rgba(60,146,197,0.85);
+    border-radius: 4px;
+    margin-left: 6px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}

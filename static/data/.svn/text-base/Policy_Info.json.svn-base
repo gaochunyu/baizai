@@ -1,0 +1,32 @@
+{
+  "name":"保单信息",
+  "data":[{
+    "index": "CCIC20181001",
+    "amount":0,
+    "premium":0,
+    "cow":2935,
+    "sheep":5063,
+    "area":34.27,
+    "grasstype":"高寒草荀",
+    "grassheight":"5"
+  },{
+    "index": "CCIC20181002",
+    "amount":0,
+    "premium":0,
+    "cow":1409,
+    "sheep":5332,
+    "area":7.98,
+    "grasstype":"高寒草荀",
+    "grassheight":"5"
+  },{
+    "index": "CCIC20181003",
+    "amount":0,
+    "premium":0,
+    "cow":2060,
+    "sheep":3930,
+    "area":12.44,
+    "grasstype":"高寒草荀",
+    "grassheight":"5"
+  }]
+
+}

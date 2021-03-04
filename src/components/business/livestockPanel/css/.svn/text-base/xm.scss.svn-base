@@ -1,0 +1,53 @@
+.card-contend{
+  background: #fff;
+  width: 100%;
+  padding: 0px 20px 0 20px;
+  box-sizing: border-box;
+  margin-top: -7px;
+
+  .card-contend-infs{
+    width:100%;
+    display: flex;
+    .card-contend-inf-item{
+      width: 50%;
+      .item-infor-line1{
+        height: 30px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 16px;
+        float: left;
+        img{
+          width:30px;
+        }
+        span{
+          font-size: 14px;
+        }
+      }
+
+      .item-infor-line2{
+        display: flex;
+        align-items: center;
+
+        span{
+          font-size: 14px;
+          color: #444444;
+        }
+        .line-color{
+          width: 100px;
+          height: 10px;
+          border-radius: 5px;
+          margin: 0 10px;
+        }
+        .ivu-progress{
+          width: 90px;
+          margin: 0 5px;
+        }
+
+      }
+    }
+  }
+  .zhchart{
+    width:100%;
+    height: 135px;
+  }
+}

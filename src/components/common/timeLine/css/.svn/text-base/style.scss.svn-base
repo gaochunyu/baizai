@@ -1,0 +1,72 @@
+.time-bar{
+  position:absolute;
+  //left:300px;
+  bottom: 30px;
+  height: 64px;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 15px;
+
+}
+.time-pick{
+  width: 65px;
+  height: 100%;
+  float: left;
+  padding: 14px 18px;
+  border-right: 1px solid #444444;
+
+  p{
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+  }
+}
+.time-group{
+  height: 100%;
+  float: right;
+
+
+  ul{
+    list-style: none;
+
+  }
+  li{
+    float: left;
+  }
+}
+.time-node{
+  position: relative;
+  top: 18px;
+  width: 13px;
+  height: 13px;
+  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 50%;
+  border: 1px solid #fff;
+  color: #fff;
+  z-index: 10;
+  cursor: pointer;
+
+  span{
+    position: relative;
+    top: 15px;
+    left: -27px;
+    font-size: 14px;
+    cursor: pointer;
+    color: #fff;
+  }
+}
+.active-node{
+  background-color: #fff;
+}
+
+.time-line{
+  position: relative;
+  left: 6px;
+  top: 25px;
+  border-bottom: 1px solid #fff;
+  width: 100px;
+}
+.hide-line{
+  display: none;
+}
+

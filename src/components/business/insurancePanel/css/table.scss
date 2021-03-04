@@ -1,0 +1,77 @@
+.table-container{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: #fff;
+  z-index: 9999;
+.table-header{
+    height: 64px;
+    background: #fff;
+    padding:20px;
+    align-items: center;
+    font-size: 16px;
+    color: #000;
+    font-weight: 600;
+  }
+  .table-content{
+    margin:0 20px;
+    height:calc(100vh - 168px);
+    box-sizing: border-box;
+
+    table{
+      border-collapse:collapse;
+      margin: 25px;
+    }
+    table,th, td{
+      border: 1px solid #c5c8ce;
+      text-align: center;
+      padding: 3px 5px;
+    }
+    .subtittle{
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    .subtext{
+      font-size: 16px;
+      margin-bottom: 10px;
+      line-height: 35px;
+    }
+  }
+  .card-page{
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+  }
+}
+
+@media screen and (max-width: 1600px){
+
+  #pay-info{
+    padding: 0 !important;
+  }
+  #pay-info p{
+     font-size: 12px;
+  }
+  #pay-info .subtittle{
+    margin-bottom: 0;
+    line-height: 20px;
+  }
+  #pay-info .subtext{
+    margin-bottom: 0;
+    line-height: 20px;
+  }
+  #pay-tittle{
+    margin-bottom: 0px !important;
+  }
+  #pay-tittle span{
+    font-size: 18px !important;
+  }
+  #pay-info  table{
+    margin: 0;
+  }
+  #pay-count{
+    font-size: 12px;
+  }
+}
+

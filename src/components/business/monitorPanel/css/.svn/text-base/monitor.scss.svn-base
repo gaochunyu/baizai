@@ -1,0 +1,234 @@
+.monitor-panel{
+  position: absolute;
+  top:0px;
+  bottom: 0px;
+  right: 0px;
+  width: 320px;
+  background: #FFFFFF;
+  box-shadow: -1px 0 4px 0 rgba(0,0,0,0.10);
+  z-index: 100;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  .sub-header{
+    height: 34px;
+    background: #EBEEF0;
+    font-size: 14px;
+    color: #444444;
+    letter-spacing: 0;
+    line-height: 14px;
+    padding: 10px;
+
+    span{
+      border-left: 3px solid #4EAEED;
+      padding-left: 10px;
+    }
+  }
+  .sub-content{
+    padding: 15px 25px;
+
+    p{
+      font-size: 14px;
+    }
+    i{
+      color: #3C92C5;
+      margin-right: 10px;
+    }
+    .model-step{
+      font-size: 16px;
+      margin-bottom: 15px;
+    }
+  }
+  .bd-content{
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-between;
+
+    .bd-info{
+      display: inline-block;
+      width: 110px;
+      text-align: right;
+    }
+    .bd-crad{
+      display: inline-block;
+      width: 180px;
+
+      i:first-child{
+        margin-left: 15px;
+      }
+    }
+    .bd-num{
+      display: inline-block;
+      width: 130px;
+    }
+    .bd-state{
+      display: inline;
+      width: 56px;
+      height: 20px;
+      background: #60BFBF;
+      border-radius: 10px;
+      padding: 2px 5px;
+      margin-left: 15px;
+      color: white;
+      font-size: 12px;
+      text-align: center;
+      line-height: 17px;
+      cursor: pointer;
+    }
+    .bd-count{
+      display: inline-block;
+      height: 6px;
+      background-image: linear-gradient(-90deg, #FAD961 0%, #F76B1C 100%);
+      border-radius: 3px;
+      margin-left: 15px;
+    }
+    .bd-glass{
+      display: inline-block;
+      height: 6px;
+      background-image: linear-gradient(-90deg, #B4EC51 0%, #66CDCD 100%);
+      border-radius: 3px;
+      margin-left: 15px;
+    }
+  }
+
+  .animal-card{
+    span{
+      display: inline-block;
+      width:65px;
+      height: 30px;
+      border-radius: 15px;
+      background: rgba(78,174,237,0.10);
+      font-size: 14px;
+      padding: 5px 10px;
+      margin-bottom: 5px;
+      cursor: pointer;
+    }
+    span:first-child{
+      color: #4EAEED;
+      margin-right: 25px;
+    }
+    span:last-child{
+      color: #F5A623;
+    }
+  }
+  .animal-content{
+     p{
+       margin-top: 5px;
+       span:first-child{
+         display: inline-block;
+         height:6px;
+         background: #4EAEED;
+         border-radius: 5px;
+         margin-right: 15px;
+       }
+       span:last-child{
+         color: #4EAEED;
+         margin-right: 15px;
+       }
+     }
+  }
+  .warn-state{
+    margin: 3px 0;
+    display: inline-block;
+
+    span:first-child{
+      display: inline-block;
+      width: 20px;
+      height: 12px;
+      background: #60BFBF;
+      border-radius: 2px;
+      margin: 0px 3px;
+    }
+    span:last-child{
+      display: inline-block;
+      width: 75px;
+      height: 24px;
+      background-color: #67a8e6;
+      border-radius: 5px;
+      color: white;
+      padding: 2px 8px;
+      margin-left: 25px;
+      cursor: pointer;
+    }
+  }
+  .warn-btn{
+    width: 167px;
+    height: 28px;
+    background-color: #67a8e6;
+    border-radius: 5px;
+    color: white;
+    padding: 4px 52px;
+    margin-left: 89px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  .warn-card{
+    p{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 5px;
+
+      span{
+        display: inline-block;
+        width: 60px;
+        text-align: right;
+      }
+    }
+    .btn{
+      margin-left: 90px;
+      span{
+        display: inline-block;
+        width: 50px;
+        height: 24px;
+        border-radius: 4px;
+        font-size: 14px;
+        text-align: center;
+        padding: 2px;
+        cursor: pointer;
+      }
+      span:first-child{
+        background: #EBEDF0;
+        color: #444444;;
+      }
+      span:last-child{
+        background: #3C92C5;
+        color: white;
+      }
+    }
+  }
+
+  .risk-level{
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    border: 1px solid #E8E8E8;
+    border-radius: 15px;
+    font-size: 12px;
+    color: #888888;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 12px;
+    padding-top: 8px;
+    margin-left: 20px;
+
+    span{
+      display: inline-block;
+      width: 40px;
+    }
+    .active{
+      color: #4EAEED;
+    }
+  }
+  .top-level{
+    height: 50px;
+    border-bottom: 2px solid #EBEEF0;
+    margin-bottom: 5px;
+  }
+  .station-cont{
+    p{
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 5px;
+    }
+  }
+}

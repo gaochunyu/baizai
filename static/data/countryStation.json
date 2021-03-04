@@ -1,0 +1,550 @@
+{
+	"features": [{
+		"geometry": {
+			"coordinates": [101.75, 36.73],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150101",
+			"province": "青海",
+			"city": "西宁",
+			"county": "西宁",
+			"codeid": "52866"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.68, 36.95],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150102",
+			"province": "青海",
+			"city": "西宁",
+			"county": "大通",
+			"codeid": "52862"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.58, 36.5],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150104",
+			"province": "青海",
+			"city": "西宁",
+			"county": "湟中",
+			"codeid": "52869"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.25, 36.68],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150103",
+			"province": "青海",
+			"city": "西宁",
+			"county": "湟源",
+			"codeid": "52855"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [102.1, 36.5],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150200",
+			"province": "青海",
+			"city": "海东",
+			"county": "海东",
+			"codeid": "52875"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [102.42, 36.48],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150202",
+			"province": "青海",
+			"city": "海东",
+			"county": "乐都",
+			"codeid": "52874"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [102.83, 36.33],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150203",
+			"province": "青海",
+			"city": "海东",
+			"county": "民和",
+			"codeid": "52876"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.95, 36.82],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150204",
+			"province": "青海",
+			"city": "海东",
+			"county": "互助",
+			"codeid": "52863"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [102.25, 36.1],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150205",
+			"province": "青海",
+			"city": "海东",
+			"county": "化隆",
+			"codeid": "52877"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [102.45, 35.85],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150206",
+			"province": "青海",
+			"city": "海东",
+			"county": "循化",
+			"codeid": "52972"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.08, 37.2],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150801",
+			"province": "青海",
+			"city": "海北",
+			"county": "海北",
+			"codeid": "52853"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.62, 37.38],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150802",
+			"province": "青海",
+			"city": "海北",
+			"county": "门源",
+			"codeid": "52765"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.25, 38.18],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150803",
+			"province": "青海",
+			"city": "海北",
+			"county": "祁连",
+			"codeid": "52657"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.13, 37.33],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150806",
+			"province": "青海",
+			"city": "海北",
+			"county": "刚察",
+			"codeid": "52754"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [102.02, 35.52],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150301",
+			"province": "青海",
+			"city": "黄南",
+			"county": "黄南",
+			"codeid": "52974"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [102.02, 35.93],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150302",
+			"province": "青海",
+			"city": "黄南",
+			"county": "尖扎",
+			"codeid": "52963"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.47, 35.03],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150303",
+			"province": "青海",
+			"city": "黄南",
+			"county": "泽库",
+			"codeid": "52968"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.6, 34.73],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150304",
+			"province": "青海",
+			"city": "黄南",
+			"county": "河南",
+			"codeid": "56065"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.62, 36.27],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150401",
+			"province": "青海",
+			"city": "海南",
+			"county": "海南",
+			"codeid": "52856"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.6, 35.25],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150408",
+			"province": "青海",
+			"city": "海南",
+			"county": "同德",
+			"codeid": "52957"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.37, 36.02],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150404",
+			"province": "青海",
+			"city": "海南",
+			"county": "贵德",
+			"codeid": "52868"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [99.98, 35.58],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150406",
+			"province": "青海",
+			"city": "海南",
+			"county": "兴海",
+			"codeid": "52943"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.73, 35.58],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150407",
+			"province": "青海",
+			"city": "海南",
+			"county": "贵南",
+			"codeid": "52955"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.23, 34.48],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150501",
+			"province": "青海",
+			"city": "果洛",
+			"county": "果洛",
+			"codeid": "56043"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [100.75, 32.93],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150502",
+			"province": "青海",
+			"city": "果洛",
+			"county": "班玛",
+			"codeid": "56151"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [99.9, 33.97],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150503",
+			"province": "青海",
+			"city": "果洛",
+			"county": "甘德",
+			"codeid": "56045"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [99.65, 33.75],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150504",
+			"province": "青海",
+			"city": "果洛",
+			"county": "达日",
+			"codeid": "56046"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [101.48, 33.43],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150505",
+			"province": "青海",
+			"city": "果洛",
+			"county": "久治",
+			"codeid": "56067"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [98.22, 34.92],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150506",
+			"province": "青海",
+			"city": "果洛",
+			"county": "玛多",
+			"codeid": "56033"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [96.97, 33.0],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150600",
+			"province": "青海",
+			"city": "玉树",
+			"county": "玉树",
+			"codeid": "56029"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [95.28, 32.88],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150604",
+			"province": "青海",
+			"city": "玉树",
+			"county": "杂多",
+			"codeid": "56018"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [97.0, 33.36],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150602",
+			"province": "青海",
+			"city": "玉树",
+			"county": "称多",
+			"codeid": "56034"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [95.62, 33.85],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150603",
+			"province": "青海",
+			"city": "玉树",
+			"county": "治多",
+			"codeid": "56016"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [96.47, 32.2],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150605",
+			"province": "青海",
+			"city": "玉树",
+			"county": "囊谦",
+			"codeid": "56125"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [95.8, 34.12],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150606",
+			"province": "青海",
+			"city": "玉树",
+			"county": "曲麻莱",
+			"codeid": "56021"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [97.38, 37.37],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150700",
+			"province": "青海",
+			"city": "海西",
+			"county": "海西",
+			"codeid": "52737"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [94.92, 36.42],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150714",
+			"province": "青海",
+			"city": "海西",
+			"county": "格尔木",
+			"codeid": "52818"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [90.85, 38.25],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150712",
+			"province": "青海",
+			"city": "海西",
+			"county": "茫崖",
+			"codeid": "51886"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [95.35, 37.85],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150713",
+			"province": "青海",
+			"city": "海西",
+			"county": "大柴旦",
+			"codeid": "52713"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [98.48, 36.93],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150709",
+			"province": "青海",
+			"city": "海西",
+			"county": "乌兰",
+			"codeid": "52833"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [98.1, 36.3],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150715",
+			"province": "青海",
+			"city": "海西",
+			"county": "都兰",
+			"codeid": "52836"
+		},
+		"type": "Feature"
+	}, {
+		"geometry": {
+			"coordinates": [99.02, 37.3],
+			"type": "Point"
+		},
+		"properties": {
+			"reportid": "101150708",
+			"province": "青海",
+			"city": "海西",
+			"county": "天峻",
+			"codeid": "52745"
+		},
+		"type": "Feature"
+	}],
+	"type": "FeatureCollection"
+}

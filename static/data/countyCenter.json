@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.18204518309432,35.71897449679618]
+      },
+      "properties": {
+        "name":"岗察村"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.36331959715568,35.63475044678417]
+      },
+      "properties": {
+        "name":"卡索村"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.29534169187934,35.68663405182339]
+      },
+      "properties": {
+        "name":"苏化村"
+      },
+      "type": "Feature"
+    }
+  ]
+}

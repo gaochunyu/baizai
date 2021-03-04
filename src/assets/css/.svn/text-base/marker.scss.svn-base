@@ -1,0 +1,129 @@
+.info{
+    width: 325px;
+    height: 120px;
+    position: relative;
+}
+.info-circle {
+    width: 112px;
+    height: 112px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid #db4325;
+    border-radius: 50%;
+}
+.info-line {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 56px;
+    left: 56px;
+    border-top: 1.5px solid #db4325;
+    transition: width 0.5s ease 0.5s;
+}
+.info-text-container {
+    background: linear-gradient(-135deg, transparent 15px, rgba(244, 244, 244, 0.91) 0) top right;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    transform: scale(0.01);
+    transition: transform 0.5s ease 0.5s;
+    border-left: 1.5px solid #db4325;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.20);
+}
+.info-text-content {
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    color: #ffffff;
+    width: 215px;
+    height: 108px;
+    line-height: 2;
+    padding: 7px;
+    background: linear-gradient(-135deg, transparent 15px, #2b2b2b 0) top right;
+    box-sizing: border-box;
+}
+
+.info.active .ring, .info.active .info-text-container {
+    transform: scale(1);
+}
+
+.info.active .info-line {
+    width: 110px;
+}
+.ring {
+    position: absolute;
+    width: 124px;
+    height: 124px;
+    top: -6px;
+    left: -6px;
+    background-color: transparent;
+    transform: scale(0.01);
+    transition: transform 0.5s;
+}
+@keyframes ring_bound1 {
+    from {
+    left: 15px;
+    top: 15px;
+    width: 94px;
+    height: 94px;
+    }
+    to {
+    top: 0;
+    left: 0;
+    width: 124px;
+    height: 124px;
+    }
+}
+@keyframes ring_bound2 {
+    from {
+    left: 36px;
+    top: 36px;
+    width: 52px;
+    height: 52px;
+    }
+    to {
+    top: 21px;
+    left: 21px;
+    width: 82px;
+    height: 82px;
+    }
+}
+.ring-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 124px;
+    height: 124px;
+    background-image: radial-gradient(circle at center, transparent, rgba(255, 80, 40, 0.5));
+    border-radius: 50%;
+    animation: ring_bound1 2s infinite linear;
+    z-index: 1;
+}
+.ring-2 {
+    position: absolute;
+    box-sizing: border-box;
+    top: 21px;
+    left: 21px;
+    width: 82px;
+    height: 82px;
+    background-image: radial-gradient(circle at center, transparent, rgba(74, 245, 75, 0.7));
+    animation: ring_bound2 2s infinite linear;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.ring-3 {
+    position: absolute;
+    z-index: 3;
+    top: 55px;
+    left: 55px;
+    width: 14px;
+    height: 14px;
+    background-color: #4af54b;
+    border-radius: 50%;
+}
+
+

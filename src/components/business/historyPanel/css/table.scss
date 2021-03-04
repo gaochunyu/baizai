@@ -1,0 +1,21 @@
+.tablePanel{
+  position: absolute;
+  top: 0;
+  left: 60px;
+  bottom: 0;
+  width: 385px;
+  background: #FFFFFF;
+  box-shadow: 2px 0 2px 0 rgba(0,0,0,0.20);
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 10;
+
+  p{
+    display: flex;
+    justify-content: space-between;
+    height: 64px;
+    font-size: 16px;
+    color: #444444;
+    padding: 24px 20px;
+  }
+}

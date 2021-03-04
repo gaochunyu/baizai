@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [101.75196210594625,36.730000862636125]
+    },
+    "properties": {
+      "city":"西宁",
+      "county":"西宁",
+	    "stationid":"52866"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [101.68188584502302,36.95007203451161]
+    },
+    "properties": {
+      "city":"西宁",
+      "county":"大通",
+	    "stationid":"52862"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [101.58175025409223,36.49969146719252]
+    },
+    "properties": {
+      "city":"西宁",
+      "county":"湟中",
+	  "stationid":"52869"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [101.25189272159379,36.67995992838885]
+    },
+    "properties": {
+      "city":"西宁",
+      "county":"湟源",
+	  "stationid":"52855"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.10207207862003,36.50006397268524]
+    },
+    "properties": {
+      "city":"海东",
+      "county":"海东",
+	  "stationid":"52875"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.4220128363013,36.48005385259914]
+    },
+    "properties": {
+      "city":"海东",
+      "county":"乐都",
+	  "stationid":"52874"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.83182603155458,36.32972913352156]
+    },
+    "properties": {
+      "city":"海东",
+      "county":"民和",
+	  "stationid":"52876"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [101.95174042784937,36.81993047752161]
+    },
+    "properties": {
+      "city":"海东",
+      "county":"互助",
+	  "stationid":"52863"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.25178789340318,36.09975782010032]
+    },
+    "properties": {
+      "city":"海东",
+      "county":"化隆",
+	  "stationid":"52877"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.4519337961646,35.84983675394893]
+    },
+    "properties": {
+      "city":"海东",
+      "county":"循化",
+	  "stationid":"52972"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [100.08165588345928,37.200462084216966]
+    },
+    "properties": {
+      "city":"海北",
+      "county":"海北",
+	  "stationid":"52853"
+    }
+  }]
+}
